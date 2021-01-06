@@ -1,0 +1,20 @@
+{
+  "name": "username-checker",
+  "version": "1.0.0",
+  "description": "A username valid checker algorithm using REGEX implementation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhanf/username-checker-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "regex",
+    "username"
+  ],
+  "author": "ridhanf",
+  "license": "MIT"
+}
