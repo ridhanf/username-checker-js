@@ -14,12 +14,11 @@ Usernames have to be at least two characters long. A two-character username can 
 Feel free to clone and code it by your self to learn more about JavaScript.
 
 ```sh
-https://github.com/ridhanf/username-checker-js.git
+git clone https://github.com/ridhanf/username-checker-js.git
 ```
 That's all. Thank you.
 
 &nbsp;
-
 
 Sincerely,
 
