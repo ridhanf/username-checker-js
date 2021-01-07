@@ -1,6 +1,5 @@
-# Regular Expressions: Restrict Possible Usernames
-
-This repository is a simple username checker program written in JavaScript using REGEX implementation. This problem is from [this freeCodeCamp chapter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames).
+## Regular Expressions: Restrict Possible Usernames
+This repository contans a simple username checker program written in JavaScript using REGEX implementation. This problem is from [this freeCodeCamp chapter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames).
 
 Usernames are used everywhere on the internet. They are what give users a unique identity on their favorite sites.
 
@@ -11,19 +10,17 @@ Usernames are used everywhere on the internet. They are what give users a unique
 
 Usernames have to be at least two characters long. A two-character username can only use alphabet letters as characters.
 
+### How to use
 Feel free to clone and code it by your self to learn more about JavaScript.
 
 ```sh
 https://github.com/ridhanf/username-checker-js.git
 ```
+That's all. Thank you.
 
-Also, visit my [gitlab account](https://www.gitlab.com/ridhanf) and [HackerRank account](https://www.hackerrank.com/ridhanf).
-
-Thanks.
+&nbsp;
 
 
 Sincerely,
 
-Ridhan Fadhilah, S.T.
-
-<a href="https://linkedin.com/in/ridhanf" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
+Ridhan Fadhilah
